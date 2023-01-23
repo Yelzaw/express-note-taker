@@ -8,7 +8,7 @@ const { readFromFile, readAndAppend, writeToFile } = require('./helpers/fsUtils'
 //Helper method for unique ids
 const { v4: uuid } = require ('uuid');
 
-const PORT = 3001;
+const PORT = process.env.PORT || 3001;
 
 const app = express();
 

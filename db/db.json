@@ -1,1 +1,12 @@
-[]
+[
+    {
+        "title": "Shopping Lists",
+        "text": "Rice\nVegetable Oil\nTomato\nMilk\nBread",
+        "id": "244983da-d056-4edc-83d2-efe853f13aae"
+    },
+    {
+        "title": "Meeting Note",
+        "text": "All documents require to submit by Friday.",
+        "id": "943ab6fe-f3c8-40de-9e8f-f5861a9bf25d"
+    }
+]
