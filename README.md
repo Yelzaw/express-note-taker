@@ -15,6 +15,6 @@ MIT License
 
 ## Completed Works - Link and Screenshot
 
-- https://gentle-gorge-64727.herokuapp.com/notes
+- https://gentle-gorge-64727.herokuapp.com/
 
 - <img src="./images/sample-webpage.jpg" width="350" alt="Screenshot of webpage">
