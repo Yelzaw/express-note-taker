@@ -1,4 +1,4 @@
-# Challenge 05-Third-Party APIs: Work Day Scheduler
+# Express Note Taker
 
 ## Description
 The challenge of this week is to create a Note Taker application that allows a user to write and save note. This app will use an Express.js back end.
@@ -17,4 +17,4 @@ MIT License
 
 - https://gentle-gorge-64727.herokuapp.com/notes
 
-<img src="/images/screenshot.png" width="350" alt="Screenshot of webpage">
+- <img src="./images/screenshot.png" width="350" alt="Screenshot of webpage">
