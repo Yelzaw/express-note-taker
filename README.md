@@ -15,6 +15,6 @@ MIT License
 
 ## Completed Works - Link and Screenshot
 
-- https://yelzaw.github.io/work-day-scheduler/
+- https://gentle-gorge-64727.herokuapp.com/notes
 
 <img src="/images/screenshot.png" width="350" alt="Screenshot of webpage">
