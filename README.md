@@ -17,4 +17,4 @@ MIT License
 
 - https://gentle-gorge-64727.herokuapp.com/notes
 
-- <img src="./images/screenshot.png" width="350" alt="Screenshot of webpage">
+- <img src="./images/sample-webpage.jpg" width="350" alt="Screenshot of webpage">
